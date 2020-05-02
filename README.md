@@ -36,3 +36,7 @@ Outro comando também visto é o :
 `git checkout -b [branch]`
 
 * Uilizado para criar um novo branch e depois mudar para ele
+
+`git log`
+
+* Utilizado para ver históricos de commit
