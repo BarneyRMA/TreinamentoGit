@@ -32,3 +32,7 @@ Outro comando também visto é o :
 `git diff`
 
 * Utilizado para visualizar alterções entre arquivos, commit e até mesmo branches
+
+`git log`
+
+* Utilizado para ver históricos de commit
