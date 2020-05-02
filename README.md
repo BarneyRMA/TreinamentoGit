@@ -18,4 +18,8 @@ Outro comando também visto é o :
 
 `git commit -m "Comentario"`
 
-*Esse comando é utilizado para submeter mudanças do Index ao HEAD
+*Esse comando é utilizado para submeter mudanças do Index ao HEAD.
+
+`git push`
+
+*Para submeter suas alterações ao repositório remoto utilize o push.
