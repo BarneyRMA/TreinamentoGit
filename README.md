@@ -29,3 +29,6 @@ Outro comando também visto é o :
 * Para atualizar o repositório local com as atualizações do remoto
 
 
+`git diff`
+
+* Utilizado para visualizar alterções entre arquivos, commit e até mesmo branches
