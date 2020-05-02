@@ -32,3 +32,7 @@ Outro comando também visto é o :
 `git diff`
 
 * Utilizado para visualizar alterções entre arquivos, commit e até mesmo branches
+
+`git checkout -b [branch]`
+
+* Uilizado para criar um novo branch e depois mudar para ele
