@@ -40,3 +40,5 @@ Outro comando também visto é o :
 `git log`
 
 * Utilizado para ver históricos de commit
+
+Testando commit
