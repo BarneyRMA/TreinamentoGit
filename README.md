@@ -41,4 +41,4 @@ Outro comando também visto é o :
 
 * Utilizado para ver históricos de commit
 
-Testando commit
+Será que vai ?
