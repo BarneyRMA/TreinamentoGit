@@ -42,4 +42,7 @@ Outro comando também visto é o :
 * Utilizado para ver históricos de commit
 
 Testando - Será que vai?
+
 tem que dar erro
+
+Teste 2
